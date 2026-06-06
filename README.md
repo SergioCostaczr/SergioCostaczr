@@ -11,14 +11,14 @@ Focado em desenvolvimento back-end com Java e o ecossistema Spring.
 public class Sergio extends Developer {
 
     String[] education  = { "Ciência da Computação", "UNIFOR, Fortaleza - CE" };
-    String[] focus      = { "Backend Development", "Spring Ecosystem", "APIs RESTful" };
-    String[] currently  = { "Spring Security", "OAuth2", "Docker"};
+    String[] focus      = { "Backend Development", "Spring Ecosystem", "Cloud" };
+    String[] currently  = { "OAuth2", "Docker", "AWS", "Azure" };
     String   location   = "Fortaleza, Ceará 🇧🇷";
     boolean  openToWork = true;
 
     @Override
     public String toString() {
-        return "Construindo soluções, um commit de cada vez.";
+        return "Backend Developer | Java | Spring | Cloud";
     }
 }
 ```
@@ -34,14 +34,3 @@ public class Sergio extends Developer {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCostaczr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCostaczr&layout=compact&langs_count=7&theme=github_dark&hide_border=false"/>
-
-</div>
